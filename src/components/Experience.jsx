@@ -11,7 +11,7 @@ const Experience = props => (
             {props.data.map((exp, index) => (
                 <div className="Experience-item" key={`Exp:-${index}`}>
                     <H3Styled>{exp.company}</H3Styled>
-                    <PStyled>{exp.jobDescription}</PStyled>
+                    <PStyled name={exp.jobDescription}></PStyled>
                 </div>            
             ))}            
 
