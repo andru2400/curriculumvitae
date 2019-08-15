@@ -54,29 +54,37 @@
     "skills": [
       {
         "name": "HTML5",
-        "percentage": "85%"
+        "percentage": "80%"
       },
       {
         "name": "CSS",
-        "percentage": "65%"
+        "percentage": "48%"
+      },
+      {
+        "name": "PHP",
+        "percentage": "80%"
       },
       {
         "name": "JavaScript",
-        "percentage": "75%"
+        "percentage": "70%"
       },
       {
         "name": "React",
-        "percentage": "60%"
+        "percentage": "55%"
       },
       {
-        "name": "SQL",
-        "percentage": "80%"
+        "name": "Vue",
+        "percentage": "75%"
+      },
+      {
+        "name": "MYSQL",
+        "percentage": "78%"
       }
     ],
     "social": [
       {
         "name": "facebook",
-        "url": "https://facebook.com/"
+        "url": "https://www.facebook.com/andres.david.5209/"
       },
       {
         "name": "twitter",
